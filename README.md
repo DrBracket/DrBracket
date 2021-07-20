@@ -1,5 +1,5 @@
-### Hi there, I'm DrBracket 👋
-## I'm a Student Developer and Father!
+## Hi there, I'm DrBracket 👋
+### I'm a Student Developer and Father!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning: Python, React, Node.js and MongoDB
