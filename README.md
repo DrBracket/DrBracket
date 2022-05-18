@@ -1,9 +1,9 @@
 ## Hi there, I'm DrBracket 👋
 ### I'm a Student Developer and Father!
 
-- 🌱 I’m currently learning: Python, React, Node.js and MongoDB
+- 🌱 I’m currently learning: Python, React, Node.js and MongoDB, SQL
 - 👯 I’m very confident to collaborate with Developer Teams
-- 🥅 2021 Goals: Finish Python and PHP Courses on Udemy
+- 🥅 2022 Goals: Finish Python Bootcamp & Data Analytics Course
 - ⚡ Fun fact: I love to read and play piano
 
 
@@ -13,6 +13,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="SQL" width="26px" src="https://glue-labs.com/wp-content/uploads/2020/02/1-2.png" />
 <br />
 <br />
 
