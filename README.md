@@ -1,4 +1,4 @@
-## Hi there, I'm Michele! Aka **DrBracket** 👋
+## Hi there, I'm Michele! 👋
 ### I'm a Data Analytics student trying to become **Machine Learning Developer** 🤖
 
 - 🌱 I’m currently learning: Python, React, Node.js and MongoDB, SQL
