@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning: Python, React, Node.js and MongoDB, SQL
 - 👯 I’m very confident to collaborate with Developer Teams
-- 🥅 2023 Goals: Finish Data Analytics & Python Course
 - 📚 Fun fact: I love reading and buying courses on all e-learning platforms
 
 
